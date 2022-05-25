@@ -1,5 +1,5 @@
 ## decode5sObfuscator
-CloudFlare 5秒盾第一层混淆代码一键还原
+CloudFlare 5s盾第一层混淆代码一键还原
 
 ## 简介
 
@@ -33,11 +33,14 @@ node decode5s.js 5s.js
 
 
 
-# 交流群 （加我好友拉你进群）
+# 如果想要5s盾的完整js代码，可通过添加下面的微信联系我，价格可谈。
+
 
 ![Test](https://github.com/Tsaiboss/ControlFlow/blob/main/QR%20code/%E5%BE%AE%E4%BF%A1%E5%8F%B7.jpg) 
 
 个人微信:523176585
 
 Email : 523176585@qq.com
+
+
 
